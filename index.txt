@@ -2,23 +2,23 @@ vCard - Personal Portfolio
 
 # sidebar
 
-alt = Richard hanrick
-Richard hanrick
-Web developer
+alt = Yining Wang
+Yining Wang
+MASc Student
 
 Show Contacts
 
 Email
-richard@example.com
+yning.wang@mail.utoronto.ca
 
 Phone
-+1 (213) 352-2795
++1 (437) 986-6343
 
 Birthday
-June 23, 1982
+June 9, 2001
 
 Location
-Sacramento, California, USA
+Toronto, Ontario, Canada
 
 # navbar
 
