@@ -89,17 +89,13 @@ Resume
 
 Education
 
-University school of the arts
-2007 — 2008
-Nemo enims ipsam voluptatem, blanditiis praesentium voluptum delenit atque corrupti, quos dolores et quas molestias exceptur.
+University of Toronto
+2024 — Current
+Master of Applied Science, Electrical and Computer Engineering: Supervised by Prof. Baochun Li
 
-New york academy of art
-2006 — 2007
-Ratione voluptatem sequi nesciunt, facere quisquams facere menda ossimus, omnis voluptas assumenda est omnis..
-
-High school of art and design
-2002 — 2004
-Duis aute irure dolor in reprehenderit in voluptate, quila voluptas mag odit aut fugit, sed consequuntur magni dolores eos.
+University of Toronto
+2019 — 2024
+Bachelor of Applied Science, Engineering Science with Honours
 
 Experience
 
@@ -117,13 +113,13 @@ Nemo enims ipsam voluptatem, blanditiis praesentium voluptum delenit atque corru
 
 My skills
 
-Web design
+Python
 80%
-Graphic design
+Matlab
 70%
-Branding
+SQL
 90%
-WordPress
+Rust
 50%
 
 
