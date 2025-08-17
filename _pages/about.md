@@ -17,8 +17,8 @@ Research
 ======
 My research interests primarily lie in:
 - Distributed Machine Learning, including:
-  - Datacenter Network for Deep Learning Training
-  - Flow-Dependency-Aware Communication & Bandwidth Allocation
+  - Datacenter Network
+  - Communication & Bandwidth Allocation for Deep Learning Training
 - Efficient Large Language Model (LLM) training, including:
   - Parameter-efficient Fine-Tuning (PEFT)
   - Reinforcement Learning with Human Feedback (RLHF)
