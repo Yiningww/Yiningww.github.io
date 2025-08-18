@@ -7,10 +7,7 @@ venue: "University of Toronto, Department of Computer Science"
 date: 2024-winter
 location: "Toronto, Canada"
 ---
-- Providing support to students with their lecture worksheets, labs, and assignments
-- Wrote Automaker scripts and graded assignments on coding correctness
-- Invigilated and marked midterm and final exams
-- Collaborated with course instructors to refine course materials and improve the overall learning experience for students
+
 
 Heading 1
 ======
