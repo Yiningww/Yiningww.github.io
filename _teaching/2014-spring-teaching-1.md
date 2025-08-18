@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2024-winter
 venue: "University of Toronto, Department of Computer Science"
-date: 2024-winter
+date: 2024-01
 location: "Toronto, Canada"
 ---
 - Providing support to students with their lecture worksheets, labs, and assignments
