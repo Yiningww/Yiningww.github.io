@@ -1,14 +1,16 @@
 ---
-title: "Teaching experience 1"
+title: "CSC209 - Software Tools and System Programming (in C)"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+permalink: /teaching/2024-winter
+venue: "University of Toronto, Department of Computer Science"
+date: 2024-winter
+location: "Toronto, Canada"
 ---
-
-This is a description of a teaching experience. You can use markdown like any other post.
+- Providing support to students with their lecture worksheets, labs, and assignments
+- Wrote Automaker scripts and graded assignments on coding correctness
+- Invigilated and marked midterm and final exams
+- Collaborated with course instructors to refine course materials and improve the overall learning experience for students
 
 Heading 1
 ======
