@@ -7,7 +7,3 @@ venue: "University of Toronto, Department of Computer Science"
 date: 2024-01-01
 location: "Toronto, Canada"
 ---
-
-
-<!-- Heading 1
-====== -->

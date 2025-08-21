@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me"
+title: "About Me"
 author_profile: true
 redirect_from:
   - /about/
@@ -16,6 +16,6 @@ My research interests primarily lie in:
 - Distributed Machine Learning, including:
   - Datacenter Network
   - Communication & Bandwidth Allocation for Deep Learning Training
-- Efficient Large Language Model (LLM) training, including:
-  - Parameter-efficient Fine-Tuning (PEFT)
+- Large Language Model (LLM) post training, including:
+  - Parameter-Efficient Fine-Tuning (PEFT)
   - Reinforcement Learning with Human Feedback (RLHF)

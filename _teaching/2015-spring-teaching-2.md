@@ -7,13 +7,3 @@ venue: "University of Toronto, Department of Electrical and Computer Engineering
 date: 2025-09-01
 location: "Toronto, Canada"
 ---
-
-
-<!-- Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-====== -->
