@@ -1,20 +1,19 @@
 ---
-title: "Teaching experience 2"
+title: "ECE1778 - Creative Applications for Mobile Devices"
 collection: teaching
-type: "Workshop"
+type: "Graduate course"
 permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+venue: "University of Toronto, Department of Electrical and Computer Engineering"
+date: 2025-09-01
+location: "Toronto, Canada"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
 
-Heading 1
+<!-- Heading 1
 ======
 
 Heading 2
 ======
 
 Heading 3
-======
+====== -->
