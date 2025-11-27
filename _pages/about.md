@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am an M.A.Sc. student in the Department of Electrical and Computer Engineering at the University of Toronto, supervised by Prof. Baochun Li. I previously completed my B.A.Sc. in the division of Engineering Science at the University of Toronto, graduating with honours.
+I am an M.A.Sc. (research-based master) student in the Department of Electrical and Computer Engineering at the University of Toronto. I previously completed my B.A.Sc. in the division of Engineering Science at the University of Toronto, graduating with honours.
 
 I was born and raised in Shenyang, China.
 
