@@ -13,11 +13,14 @@ I was born and raised in Shenyang, China.
 Research
 ======
 My research interests primarily lie in:
-- Distributed Machine Learning, including:
-  - Datacenter Network
-  - Communication & Bandwidth Allocation for Deep Learning Training Optimization
-- Large Language Model (LLM) Post-Training, including:
+<!--- Distributed Machine Learning, including:-->
+- Datacenter Network
+- Mathematical Optimization/Network Traffic Optimization
+- Bandwidth Allocation & Routing
+<!--- Communication & Bandwidth Allocation for Deep Learning Training Optimization-->
+
+<!--- Large Language Model (LLM) Post-Training, including:
   - Reinforcement Learning with Human Feedback (RLHF)
   - Parameter-Efficient Fine-Tuning (PEFT)
 
-I’m also interested in topics like Multimodal AI, Explainable AI, and Agentic RL (search/compile/code agent), and I’m eager to learn and explore related topics that can build more robust, interpretable, and aligned language models.
+I’m also interested in topics like Multimodal AI, Explainable AI, and Agentic RL (search/compile/code agent), and I’m eager to learn and explore related topics that can build more robust, interpretable, and aligned language models.-->
