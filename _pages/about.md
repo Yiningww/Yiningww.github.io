@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a first-year PhD student and medical fellow at [NYU Courant](https://cims.nyu.edu/), [Center for Data Science](https://cds.nyu.edu/). I am very fortunate to be co-advised by Prof. Eric Oermann and Prof. Kyunghyun Cho. Previsouly, I received my M.A.Sc. (research-based master) degree from the Department of Electrical and Computer Engineering at the University of Toronto, and I completed my B.A.Sc. in the division of Engineering Science, also at the University of Toronto, graduating with honours.
+I am a first-year PhD student and medical fellow at [NYU Courant](https://cims.nyu.edu/), [Center for Data Science](https://cds.nyu.edu/). I am very fortunate to be co-advised by Prof. Eric Oermann and Prof. Kyunghyun Cho. Previously, I received my M.A.Sc. (research-based master) degree from the Department of Electrical and Computer Engineering at the University of Toronto, and I completed my B.A.Sc. in the division of Engineering Science, also at the University of Toronto, graduating with honours.
 
 I was born and raised in Shenyang, China.
 
