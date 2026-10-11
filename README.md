@@ -15,6 +15,29 @@
 
 See more info at https://academicpages.github.io/
 
+## Private visitor analytics
+
+Statcounter support is configured in `_config.yml`. It stays inactive until you
+fill in `analytics.statcounter.project_id` and `security_code` using `sc_project`
+and `sc_security` from your own project's installation code. These are public
+tracking identifiers, not your account password or API key.
+
+Create the project for `https://yiningww.github.io/` at https://statcounter.com/.
+Keep **Public Stats disabled** and do not grant other users report access. The
+invisible counter only hides the counter on the website; report privacy is
+controlled in your Statcounter account. Review the project's IP masking setting
+if you want complete IP addresses in your reports.
+
+After deployment, log in to Statcounter and open the project's Visitor Activity
+report for IP addresses, approximate locations, and visited pages. Records start
+after activation; past visits cannot be recovered. IP geolocation is approximate,
+and browser tracking protection may prevent visits from being recorded.
+
+The tracker runs only in production builds (`JEKYLL_ENV=production`) with both
+identifiers populated. Local development previews do not load it. Set
+`analytics.provider: false` to disable tracking, or `analytics: false` in an
+individual page's front matter to exclude that page.
+
 ## Running locally
 
 When you are initially working on your website, it is very useful to be able to preview the changes locally before pushing them to GitHub. To work locally you will need to:

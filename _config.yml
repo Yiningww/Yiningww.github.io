@@ -148,9 +148,15 @@ social:
 
 # Analytics
 analytics:
-  provider: "false" # false (default), "google", "google-universal", "google-analytics-4", "custom"
+  provider: "statcounter" # false, "google", "google-universal", "google-analytics-4", "statcounter", "custom"
   google:
     tracking_id:
+  statcounter:
+    # Public installation identifiers from your Statcounter tracking code.
+    # Tracking stays disabled until both are filled in; never enter an account password or API key.
+    project_id: "13359384"
+    security_code: "76799566"
+    # Keep Public Stats disabled in Statcounter; invisibility alone does not make reports private.
 
 # Reading Files
 include:
